@@ -1,0 +1,51 @@
+DUMMY DATA 
+
+
+N THE CROWN COURT AT MANCHESTER
+R v Aisha Khan and Michael O’Connor
+Judgment Following Trial
+Introduction
+The defendants, Aisha Khan (aged 41) and Michael O’Connor (aged 38), were jointly indicted on charges of conspiracy to defraud contrary to common law, and three counts of fraud by false representation contrary to section 2 of the Fraud Act 2006.
+The prosecution alleged that between January 2021 and September 2022, the defendants operated a fraudulent investment scheme targeting small business owners across the North West of England.
+Both defendants pleaded not guilty. The trial lasted six weeks. The jury returned unanimous guilty verdicts on all counts.
+Background
+The case concerned a company known as “NorthBridge Capital Solutions Ltd”, incorporated by Ms Khan in December 2020. Mr O’Connor was listed as Operations Director.
+The company purported to offer short-term “bridge financing” to struggling small enterprises, promising rapid returns of between 12% and 18% within three months.
+Evidence established that the company had no genuine investment activity. Funds paid by later investors were used to pay earlier investors, consistent with what the prosecution described as a Ponzi-style arrangement.
+In total, 46 investors transferred sums ranging from £5,000 to £75,000. The total loss was calculated at £1.8 million.
+Prosecution Case
+The prosecution relied heavily on financial analysis conducted by the Serious Fraud Office. Bank records demonstrated that investor funds were transferred almost immediately into personal accounts controlled by the defendants.
+Email correspondence recovered from Ms Khan’s laptop showed internal discussions referring to investors as “clients to recycle.”
+Mr O’Connor was recorded during a covertly monitored meeting stating, “As long as new money keeps coming in, we’re fine.”
+Several victims gave evidence describing high-pressure sales tactics and assurances that investments were “fully secured against property assets,” which in fact did not exist.
+The prosecution submitted that both defendants were knowing and active participants in the fraudulent scheme.
+Defence Case
+Ms Khan gave evidence asserting that she believed the investment model was legitimate and that financial collapse resulted from unforeseen market volatility.
+She denied dishonesty and claimed she relied upon Mr O’Connor’s financial expertise.
+Mr O’Connor did not give evidence. His counsel argued that he acted only in an administrative capacity and was unaware of any fraudulent misrepresentations.
+The defence contended that poor business practice and mismanagement do not equate to criminal dishonesty.
+Legal Directions
+The jury was directed in accordance with the principles set out in Ivey v Genting Casinos [2017] UKSC 67 regarding the test for dishonesty.
+They were reminded that the prosecution must prove beyond reasonable doubt that the defendants’ representations were false and that they knew them to be so, or were reckless as to their truth.
+Verdict
+The jury convicted both defendants on all counts.
+I am satisfied that the evidence overwhelmingly established a deliberate and sustained course of dishonest conduct.
+Sentencing Considerations
+Fraud on this scale represents grave economic harm and significant emotional distress to victims.
+Aggravating factors include:
+High level of planning and sophistication;
+Abuse of trust;
+Significant financial loss;
+Attempts to conceal transactions.
+Mitigating factors include:
+Ms Khan’s lack of previous convictions;
+Mr O’Connor’s role as secondary to Ms Khan in company structure;
+Expressions of remorse (limited in Ms Khan’s case).
+Victim impact statements described severe hardship, including forced business closures and loss of retirement savings.
+Sentence
+In respect of the conspiracy count, Ms Khan is sentenced to 8 years’ imprisonment.
+Mr O’Connor is sentenced to 6 years’ imprisonment.
+Concurrent sentences are imposed on the substantive fraud counts.
+Confiscation proceedings under the Proceeds of Crime Act 2002 will follow.
+Concluding Remarks
+Fraud of this nature undermines public confidence in legitimate financial enterprise. The custodial sentences imposed reflect the seriousness of the offending and the need for deterrence.
