@@ -1,28 +1,29 @@
-The Problem
+## The Problem
 The criminal justice system is experiencing a significant and growing case backlogs
 There are currently approximately 80,000 outstanding cases, and the MOJ has warned that without intervention, this could exceed 200,000 cases by 2035.
+
 Key contributing challenges include:
-•	Recruitment and retention issues among criminal barristers and solicitors
+- Recruitment and retention issues among criminal barristers and solicitors
 
-•	Limited courtroom productivity
+- Limited courtroom productivity
 
-•	Inefficient case management systems
+- Inefficient case management systems
 
 
-Tech Solution
+## Tech Solution
 MVP: AI Case Summarisation Tool
 An AI tool used to summarise lengthy court documents and judgments into clear, structured bullet points.
 Core Features:
-•	Summarises lengthy court judgments
+- Summarises lengthy court judgments
 
-•	Extracts key legal issues, facts, and outcomes
+- Extracts key legal issues, facts, and outcomes
 
-•	Produces concise bullet-point overviews
+- Produces concise bullet-point overviews
 
-•	Could have a note section in the tool - add Justice Transcribe to the tool so Judges can add their own thoughts that can help with the overall judgment of the case
+- Could have a note section in the tool - add Justice Transcribe to the tool so Judges can add their own thoughts that can help with the overall judgment of the case
 
 
-Use Case
+## Use Case
 Judges upload case files, legal submissions, and supporting documents.
 The AI generates:
 •	A structured case summary
@@ -36,16 +37,16 @@ The AI generates:
 
 This allows judges to quickly review essential information in court, reducing time spent navigating lengthy paperwork.
 
-Risk Mitigation & Ethical Safeguards
+## Risk Mitigation & Ethical Safeguards
 Ensure people understand this is an AI tool to help aid in repetitive administrative workload and not to replace legal expertise.
-•	Does not make judicial decisions
+- Does not make judicial decisions
 
-•	Does not provide sentencing recommendations
+- Does not provide sentencing recommendations
 
-•	Functions strictly as an administrative support tool
+- Functions strictly as an administrative support tool
 
-•	Operates within secure judicial data environments
-•	Maintains full human oversight at all times – again not a replacement for anyone so human intervention will be needed throughout the use of the AI tool 
+- Operates within secure judicial data environments
+- Maintains full human oversight at all times – again not a replacement for anyone so human intervention will be needed throughout the use of the AI tool 
 
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
