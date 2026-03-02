@@ -1,3 +1,7 @@
+# cd backend 
+# uvicorn main:app --reload --port 8000 (API)
+
+
 from fastapi import FastAPI # web framework 
 from fastapi.middleware.cors import CORSMiddleware # allowing the frontend to talk to backend 
 from pydantic import BaseModel # formats and validates the JSON 
